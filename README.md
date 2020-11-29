@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JJongSue&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJongSue&layout=compact)](https://github.com/JJongSue/github-readme-stats)
+
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=bhn01158)](https://solved.ac/bhn01158)
 
 <!--
